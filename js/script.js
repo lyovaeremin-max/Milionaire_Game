@@ -23,7 +23,7 @@ let aiExplainBlock = document.getElementById('aiExplainBlock');
 let aiExplainText = document.getElementById('aiExplainText');
 let aiExplainClose = document.getElementById('aiExplainClose');
 
-// ⚠️ Բանալին բացահայտ է front-end կոդում, քանի որ այս նախագծում backend չկա (գիտակցված ռիսկ)
+// ⚠️ Բանալին բացահայտ է front-end կոդում, քանի որ այս նախագծում backend չկա (գիտակցված ռիսկ):
 const OPENAI_API_KEY = '';//AI key
 const OPENAI_MODEL = '';//AI Model
 
